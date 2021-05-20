@@ -21,6 +21,13 @@
         width: 50%;
     }
 
+
+}
+
+@media (max-width: 768px ) {
+    #footer {
+        background-position-x: 10%;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
