@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+  font-size: 1rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+small {
+  font-weight: bold;
+}
+
+.text-secondary {
+  color: #000 !important;
+}
+
+#logo {
+  width: 30%;
+}
+
+.purple-text {
+  color: #990099;
+}
+
+.border-right {
+  border-right: 1px solid #800080;
+}
+
+a.purple-link:hover {
+  color: #200020;
+}
+
+#search {
+  border-bottom: 1px solid #FFFFFF;
+}
+
+.border-bottom-milk-pp {
+  border-bottom: 2px solid #F3E8F3;
+}
+
+input[type=search] {
+  background: transparent;
+  border: none;
+  color: #fff;
+}
+
+input[type=search]:focus {
+  background: transparent;
+  border: none;
+  color: white;
+}
+
+.this-a {
+  border-bottom: 2px solid #ffff;
+}
+
+.bg-purple {
+    /* background-color: #D100D1; */
+
+    /* background-color: #a4508b;
+    background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%); */
+    
+    background-color: #990099;
+}
+
+.btn-blue {
+  background-color: #1C87EB !important;
+}
+
+.text-blue {
+  color: #1C87EB;
+}
+
+.btn-blue:hover {
+  background-color: #1773c9 !important;
+}
+
+.bg-blue {
+  /* background-color: #8754A1 !important; */
+  /* background-color: #fbb034;
+  background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%); */
+  background-color: #1C87EB !important;
+}
+  
+.bg-milk-purple {
+background-color: #F2E6F2;
+}
+
+.purple-shadow-sm {
+  box-shadow: 0px 1px 4px 0px rgba(102,0,102,0.48);
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(102,0,102,0.48);
+  -moz-box-shadow: 0px 1px 4px 0px rgba(102,0,102,0.48);
+}
+
+.form-control:focus{
+  box-shadow: none !important;
+}
+
+.btn-purple {
+  background: #a84ac2;
+  color: #fff;
+}
+
+.font-30 {
+  font-size: 30px;
+}
+
+.btn-purple:hover {
+  background: #800080;
+  color: #fff;
+}
+
+#footer {
+  background: url('../img/footer.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: 50%;
+}
+
+#payment div {
+  float: left;
+  padding: 5px;
+}
